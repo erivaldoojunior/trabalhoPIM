@@ -1,0 +1,14 @@
+
+
+Nome: Erivaldo gomes de oliveira junior
+Idade: 21
+Avaliação do museu: 5
+Avaliação do espaço: 5
+Sugestão para melhoria: Melhorar o ambiente de iluminacao
+
+
+Nome: Lionel messi
+Idade: 35
+Avaliação do museu: 5
+Avaliação do espaço: 5
+Sugestão para melhoria: O sistema de atendimento podia melhorar, fiquei muito tempo na fila de espera
